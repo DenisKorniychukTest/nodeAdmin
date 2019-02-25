@@ -47,3 +47,6 @@ git clone SSH-адрес_вашего_форка
 
 [travis-image]: https://travis-ci.org/htmlacademy-nodejs/0-code-and-magick.svg?branch=master
 [travis-url]: https://travis-ci.org/htmlacademy-nodejs/0-code-and-magick
+
+
+#### OK
