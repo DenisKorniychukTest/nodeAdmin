@@ -1,0 +1,26 @@
+{
+  "name": "mywork",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new79den/nodeAdmin.git"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/new79den/nodeAdmin/issues"
+  },
+  "homepage": "https://github.com/new79den/nodeAdmin#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-htmlacademy": "^0.5.2"
+  },
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
